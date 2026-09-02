@@ -32,7 +32,9 @@ adopters:
 
 package_managers:
   docker: "ghcr.io/emissary-ingress/emissary"
-  helm: "https://app.getambassador.io"
+  helm:
+    - "oci://ghcr.io/emissary-ingress/emissary-ingress"
+    - "oci://ghcr.io/emissary-ingress/emissary-crds-chart"
 
 
 security:
