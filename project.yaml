@@ -24,7 +24,7 @@ repositories:
 
 website: "https://emissary-ingress.dev/"
 
-artwork: "https://landscape.cncf.io/logos/emissary-ingress.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/emissary-ingress"
 
 adopters:
   path: "https://github.com/emissary-ingress/.project/blob/main/ADOPTERS.md"
